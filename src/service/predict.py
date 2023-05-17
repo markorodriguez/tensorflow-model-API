@@ -17,6 +17,7 @@ def predict_text(params):
         else:
             param["qualification"] = 'Negativo'
 
+        param["model"] = "Tensorflow"
         response.append(param)
 
     return response
