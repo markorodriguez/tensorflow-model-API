@@ -1,4 +1,4 @@
 __pycache__/
-venv/*
+,/venv/*
 *.h5
 *.pyc
